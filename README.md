@@ -1,15 +1,15 @@
-# <center>Samigirian Serif - 襯線薩米—阿戈爾文字</center>
+# Samigirian Serif - 襯線薩米—阿戈爾文字
 
 [![RELEASE](https://img.shields.io/github/release/Siphercase/Samigirian?style=flat-square)](https://github.com/Siphercase/Samigirian/releases/latest)
 [![STARS](https://img.shields.io/github/stars/Siphercase/Samigirian?style=flat-square)](https://github.com/Siphercase/Samigirian/releases/latest)
 
-<center><big>&nbsp;希望遊戲的內容創作者們能有更多可選項。&nbsp;</big></center>
+希望遊戲的內容創作者們能有更多可選項。
 
 ## Introduction
 
 一套基於字型 [Elstob](github.com/psb1558/Elstob-font) 改作之開放原始碼西文襯線靜態字型專案、以供呈現用於行動裝置遊戲〈明日方舟〉中架空勢力「薩米」與「阿戈爾」之架空文字所用。專案依 [SIL 開源字型授權條款 1.1](scripts.sil.org/OFL) 釋出。
 
-英　　文：Samigirian Serif　<span style="color:#AAA9">*sah-mi-GHI-ree-ən SE-rif*</span>
+英　　文：Samigirian Serif　*sah-mi-GHI-ree-ən SE-rif*
 
 ## Preview
 
