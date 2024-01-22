@@ -1,0 +1,7 @@
+First release.
+
+RANGE (#):
+Basic Latin (95)
+Latin-1 Supplement (96)
+Runic (81)
+General Punctuation (40)
