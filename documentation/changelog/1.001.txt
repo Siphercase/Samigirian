@@ -1,0 +1,8 @@
+CHANGELOG v1.001
+
+- Fixed glyph \e and glyphs containing {e}: square dots to round dots
+- Tweaked glyphs \exclam \exclamdown: dot sizes
+- Tweaked glyphs \onequarter \threequaters: dots
+- Tweaked glyphs \at \thorn: dot positions
+- Retracted both LSB & RSB of \logicalnot to -250
+- Unperceivable tweak to \section
